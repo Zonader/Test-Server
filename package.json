@@ -8,7 +8,7 @@
     "email": "contact@because-why-not.com"
   },
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "requirejs": "^2.2.0",
     "typescript": "1.8.9",
     "ws": "^3.3.1"
